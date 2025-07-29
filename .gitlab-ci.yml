@@ -1,5 +1,5 @@
 image: docker-registry.lan.adytonsystems.com/node-4-phantomjs
 
 variables:
-  http_basic_authentication_header: Z3BtaWtlcDpkNDYyZjc5OWU0ODAwYmI3Mjxxxxxxxxxxxxxxxxxxxxxx2
+  github_personal_access_token: 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
 
