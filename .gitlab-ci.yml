@@ -1,0 +1,4 @@
+image: docker-registry.lan.adytonsystems.com/node-4-phantomjs
+
+variables:
+  JSPM_GITHUB_AUTH_TOKEN: Z3BtaWtlcDpkNDYyZjc5OWU0ODAwYmI3Mjxxxxxxxxxxxxxxxxxxxxxx
