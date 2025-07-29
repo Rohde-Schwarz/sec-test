@@ -1,4 +1,5 @@
 image: docker-registry.lan.adytonsystems.com/node-4-phantomjs
 
 variables:
-  http_basic_authentication_header: Z3BtaWtlcDpkNDYyZjc5OWU0ODAwYmI3Mjxxxxxxxxxxxxxxxxxxxxxx
+  http_basic_authentication_header: Z3BtaWtlcDpkNDYyZjc5OWU0ODAwYmI3Mjxxxxxxxxxxxxxxxxxxxxxx2
+
